@@ -1,0 +1,1 @@
+web: node ./seed-cloudbit-reader/index.js
